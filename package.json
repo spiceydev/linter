@@ -35,5 +35,13 @@
     "prettier"
   ],
   "author": "Adam Spice",
-  "license": "MIT"
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/spiceydev/linter.git"
+  },
+  "bugs": {
+    "url": "https://github.com/spiceydev/linter/issues"
+  },
+  "homepage": "https://github.com/spiceydev/linter#readme"
 }
